@@ -5,6 +5,6 @@ Here you can find all my work made during my studies at **Hive Helsinki**; a pri
 
 ### Projects
 *	[Piscine Reloaded](https://github.com/nikunicke/42/tree/master/piscine_reloaded)
-	*	Repetition from the Piscine; an immersive four-week training that defines who will enroll in the school.
+	*	Repetition from the Piscine; an immersive four-week training bootcamp that defines who will enroll in the school.
 *	[Libft](https://github.com/nikunicke/42/tree/master/libft)
 	*	Personal library with basic C functions.
