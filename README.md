@@ -4,5 +4,5 @@ Here you can find all my work made during my studies at Hive Helsinki; a private
 **42 Network**.
 
 ### Projects
-*	Piscine Reloaded
-*	Libft
+*	[Piscine Reloaded](https://github.com/nikunicke/42/tree/master/piscine_reloaded)
+*	[Libft](https://github.com/nikunicke/42/tree/master/libft)
