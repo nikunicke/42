@@ -8,3 +8,5 @@ Here you can find all my work made during my studies at [**Hive Helsinki**](http
 	*	Repetition from the Piscine; an immersive four-week training bootcamp that defines who will enroll in the school.
 *	[Libft](https://github.com/nikunicke/42/tree/master/libft)
 	*	Personal library with basic C functions.
+*	[Get Next Line](https://github.com/nikunicke/42/tree/master/get_next_line)
+	*	A function that returns a line from a file descriptor
