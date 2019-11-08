@@ -10,3 +10,5 @@ Here you can find all my work made during my studies at [**Hive Helsinki**](http
 	*	Personal library with basic C functions.
 *	[Get Next Line](https://github.com/nikunicke/42/tree/master/get_next_line)
 	*	A function that returns a line from a file descriptor
+*	[Fillit](https://github.com/nikunicke/42/tree/master/fillit)
+	*	Arrange a bunch of tetriminios to create the smallest square possible.
